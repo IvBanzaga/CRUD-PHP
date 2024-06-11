@@ -8,7 +8,7 @@
 
 </p>
 
-![screenshot](https://github.com/IvBanzaga/Blazor/blob/main/1.PNG)
+![screenshot](https://github.com/IvBanzaga/Frontend_Backend/tree/main/captura/1.PNG)
 
 <br>
 
