@@ -8,16 +8,26 @@
 
 </p>
 
-![screenshot](https://github.com/IvBanzaga/Frontend_Backend/tree/main/captura/1.PNG)
+![screenshot](https://github.com/IvBanzaga/Frontend_Backend/blob/main/captura/1.PNG)
 
 <br>
 
-![screenshot](https://github.com/IvBanzaga/Blazor/blob/main/2.PNG)
+![screenshot](https://github.com/IvBanzaga/Frontend_Backend/blob/main/captura/2.PNG)
 
 <br>
 
-![screenshot](https://github.com/IvBanzaga/Blazor/blob/main/3.PNG)
+![screenshot](https://github.com/IvBanzaga/Frontend_Backend/blob/main/captura/3.PNG)
 
 <br>
+
+![screenshot](https://github.com/IvBanzaga/Frontend_Backend/blob/main/captura/4.PNG)
+
+<br>
+
+![screenshot](https://github.com/IvBanzaga/Frontend_Backend/blob/main/captura/5.PNG)
+
+<br>
+
+![screenshot](https://github.com/IvBanzaga/Frontend_Backend/blob/main/captura/6.PNG)
 
 
