@@ -1,6 +1,4 @@
-﻿# CRUD HTML + CSS + PHP + JS + MYSQL
-
-<h4 align="center">CRUD HTML + CSS + PHP + JS + MYSQL </h4>
+﻿<h4 align="center">CRUD HTML + CSS + PHP + JS + MYSQL </h4>
 
 
 <p align="center">
